@@ -8,3 +8,7 @@
 ## Iteration #1: Tutorial
 
 - [ ] TBD
+
+## Misc
+
+- [ ] Set up good CI/CD practices for this package
