@@ -1,0 +1,21 @@
+# Compiled output
+/target/
+pkg/
+
+# Cargo-specific files
+**/*.rs.bk
+Cargo.lock
+
+# If you're using WebAssembly with wasm-pack or cargo-web, ignore these:
+*.wasm
+.wasm-pack/
+.wasm-bindgen-cache/
+
+# If you're using Node.js to build or bundle the app (like with wasm-pack or other tools)
+node_modules/
+dist/
+build/
+*.log
+
+# IDE and Editor specific files
+.idea/
