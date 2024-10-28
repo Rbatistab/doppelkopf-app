@@ -1,16 +1,11 @@
-use yew::prelude::*;
+use yew::Renderer;
+use app::App;
 
-#[function_component]
-fn App() -> Html {
-    let welcome = "Welcome to Doppelkopf!";
-
-    html! {
-        <div>
-            <p>{ welcome }</p>
-        </div>
-    }
-}
+mod app;
+mod components;
+mod pages;
+mod services;
 
 fn main() {
-    yew::Renderer::<App>::new().render();
+    Renderer::<App>::new().render();
 }
