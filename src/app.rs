@@ -7,7 +7,10 @@ use yew::html::IntoPropValue;
 pub fn App() -> Html {
     html! {
         <>
-            <h1>{ "Hello Game!" }</h1>
+            // header
+            // main layout
+            // tools layout
+            // Footer
         </>
     }
 }
