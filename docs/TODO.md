@@ -20,6 +20,7 @@
 ## Research
 
 - [ ] [IN_PROGRESS] Dive deep on Yew's basics
+- [ ] [IN_PROGRESS] Dive deep on 2D open world games in react as reference
 
 ## Reviews
 
