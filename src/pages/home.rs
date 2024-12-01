@@ -1,17 +1,11 @@
-use yew::{Component, Context, html, Html, Properties};
+use yew::{html, Component, Context, Html, Properties};
 
-enum HomePageMsg {
-
-}
+enum HomePageMsg {}
 
 #[derive(PartialEq, Properties)]
-struct HomePageProps {
+struct HomePageProps {}
 
-}
-
-struct HomePage {
-
-}
+struct HomePage {}
 
 impl Component for HomePage {
     type Message = HomePageMsg;

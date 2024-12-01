@@ -1,14 +1,17 @@
 # Game Design
 
-I don't know how to make a game design, so this is a merge of stuff I found online.
+---
+***I don't know how to make a game design, so this is a merge of stuff I found online.***
+
+---
 
 ## Overview
 
-In an era of heroes and adventures the *sheepheads* (*Schafkopf,* German 16th century term for a "fool”) are a community of heroes that were not picked for any adventure. Much like the people that no one wants to pick on a school game on a PE class. So they join on a quest, on a pokemon-like pixel art open world in 2D, to find adventures that are not already taken by a hero.
+In an era of heroes and adventures, the *sheepheads* (*Schafkopf,* German 16th century term for a "fool”) are a community of heroes that were not picked for any adventure. Much like the people that no one wants to pick on a school game on a PE class. So they join on a quest, on a pokemon-like pixel art open world in 2D, to find adventures that are not already taken by a hero.
 
 However they end up in disreputable bars having arguments with locals that can only be solved by winning German card games that they don’t know how to play.
 
-As the *sheepheads* learn to play the card games, they win the arguments and people give them lame adventures for fun like brushing a cat’s teeth or sleeping a baby that secretly drank coffee.
+As the *sheepheads* learn to play the card games, they win the arguments and people give them lame adventures that they don't need but will have fun out of watching them like brushing a cat’s teeth or sleeping a baby that secretly had coffee.
 
 This is a gammification of the tutorial of a complicated game.
 
@@ -23,7 +26,9 @@ Sheepheads
 
 ### Inspiration
 
-Doppelkopf is a complicated German card game that has many rules. As a non-german speaker, it is hard to find a user friend tutorial online, and the ones you find give more questions than answers (for englis-spoken online versions of the game at least). Sheepheads intents to teach the user on a fun and entertaining manner how to play the game and then offers a platform to play it.
+Doppelkopf is a complicated German card game that has many rules. As a non-german speaker, it is hard to find a user friend tutorial online, and the ones you find give more questions than answers (for englis-spoken online versions of the game at least). As a user is hard to have fun while trying to go through a tutorial and not understanding what is going on, not being able to remember the rules.
+
+Sheepheads intents to teach the user on a fun and entertaining manner how to play the game and then offers a platform to play it.
 
 ### Game Elements:
 
